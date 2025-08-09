@@ -1,7 +1,7 @@
 package com.hexaware.springrest.user.entity;
 /*
  * @Author : Praveen
- * Modified On : 06-Aug-2025
+ * Modified On : 10-Aug-2025
  * Description : User Entity class
  * 
  */
